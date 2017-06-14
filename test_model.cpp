@@ -1,6 +1,3 @@
-//
-// Created by Han Zhao on 11/19/15.
-//
 
 #include "src/SPNNode.h"
 #include "src/SPNetwork.h"
